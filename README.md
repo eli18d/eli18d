@@ -15,11 +15,11 @@ This profile showcases projects where I apply **JavaScript, TypeScript, React, V
 ---
 
 ## 🛠 Featured Projects
-- 🎮 **Samurai Last Stand** – A retro-inspired beat ’em up browser game (JavaScript, CSS, DOM manipulation)  
-- 🦁 **WikiAnimals** – Animal encyclopedia web app with search and filtering (React, Firebase)  
-- 🍷 **Buenos Vinos** – Wine cellar management app with authentication and private cellars (MERN stack)  
-- 📚 **Mangatari** – Anime & manga discovery platform (TypeScript, React, PostgreSQL + Prisma)  
-- 🚀 **SpaceRage 2D** – Space shooter game with a scalable Unity C# architecture  
+- 🎮 **[Samurai Last Stand](https://eli18d.github.io/videogame-project/)** – A retro-inspired beat ’em up browser game (JavaScript, CSS, DOM manipulation)  
+- 🦁 **[WikiAnimals](https://wikki-animals.netlify.app/)** – Animal encyclopedia web app with search and filtering (React, Firebase)  
+- 🍷 **[Buenos Vinos](https://buenosvinos.netlify.app/)** – Wine cellar management app with authentication and private cellars (MERN stack)  
+- 📚 **[Mangatari](https://mangatari-new.netlify.app/)** – Anime & manga discovery platform (TypeScript, React, PostgreSQL + Prisma)  
+
 
 ---
 
